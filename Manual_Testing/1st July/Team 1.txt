@@ -1,0 +1,35 @@
+Team 1:
+Janasi Jaiswal
+Vansh Awasthi
+Ayush Teotia
+
+
+PRODUCTS VS PROJECTS
+
+1. PRODUCT
+A product is a software application or platform developed for end users. It is continuously maintained and updated with new features and improvements.
+Examples:
+•	Flipkart
+•	Netflix
+•	Spotify
+•	Whatsapp
+•	Instagram
+•	Youtube
+•	Rapido
+•	Google Maps
+•	Zoom
+•	Blinkit
+
+2. PROJECT
+A project is software developed to solve a specific business problem or automate a business process.
+Examples:
+•	Job Portal System   (LinkedIn / Naukri type)
+•	Professional Networking Platform  (LinkedIn type)
+•	Doctor Appointment Booking System
+•	Student Management System
+•	Payroll Management System
+•	Online Tutoring Platform
+•	Matrimonial Portal (Shaadi type)
+•	Billing & Invoicing System
+•	Hospital Management System
+•	Banking Management System
