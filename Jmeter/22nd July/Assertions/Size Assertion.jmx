@@ -1,0 +1,48 @@
+line 7 column 1 - Warning: meta lacks "content" attribute
+line 14 column 9 - Warning: unknown attribute "property"
+line 15 column 9 - Warning: unknown attribute "property"
+line 16 column 9 - Warning: unknown attribute "property"
+line 17 column 9 - Warning: unknown attribute "property"
+line 18 column 9 - Warning: unknown attribute "property"
+line 19 column 9 - Warning: unknown attribute "property"
+line 20 column 9 - Warning: unknown attribute "property"
+line 38 column 17 - Warning: <style> lacks "type" attribute
+line 42 column 1 - Warning: <style> lacks "type" attribute
+line 57 column 1 - Warning: <style> lacks "type" attribute
+line 62 column 1 - Warning: <style> lacks "type" attribute
+line 68 column 1 - Warning: <style> lacks "type" attribute
+line 73 column 1 - Warning: <style> lacks "type" attribute
+line 79 column 1 - Warning: link lacks "type" attribute
+line 80 column 1 - Warning: link lacks "type" attribute
+line 81 column 1 - Warning: link lacks "type" attribute
+line 82 column 1 - Warning: <style> lacks "type" attribute
+line 93 column 1 - Warning: link lacks "type" attribute
+line 94 column 1 - Warning: <script> lacks "type" attribute
+line 99 column 1 - Warning: <script> lacks "type" attribute
+line 100 column 1 - Warning: <script> lacks "type" attribute
+line 104 column 9 - Warning: <style> lacks "type" attribute
+line 105 column 17 - Warning: unknown attribute "sizes"
+line 106 column 1 - Warning: unknown attribute "sizes"
+line 109 column 1 - Warning: <style> lacks "type" attribute
+line 246 column 49 - Error: <header> is not recognized!
+line 246 column 49 - Warning: discarding unexpected <header>
+line 249 column 49 - Warning: unknown attribute "role"
+line 257 column 171 - Warning: unknown attribute "sizes"
+line 257 column 171 - Warning: unknown attribute "srcset"
+line 257 column 171 - Warning: unknown attribute "decoding"
+line 264 column 74 - Error: <svg> is not recognized!
+line 264 column 74 - Warning: discarding unexpected <svg>
+line 265 column 66 - Error: <g> is not recognized!
+line 265 column 66 - Warning: discarding unexpected <g>
+line 266 column 82 - Error: <g> is not recognized!
+line 266 column 82 - Warning: discarding unexpected <g>
+line 267 column 98 - Error: <g> is not recognized!
+line 267 column 98 - Warning: discarding unexpected <g>
+line 268 column 114 - Error: <rect> is not recognized!
+line 268 column 114 - Warning: discarding unexpected <rect>
+line 268 column 249 - Warning: discarding unexpected </rect>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+86 warnings, 21 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
